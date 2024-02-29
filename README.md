@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ritesh.patil2702@gmail.com**
 
-- ⚡ Fun fact **I am a sports fanatic an like to play football and badminton.**
+- ⚡ Fun fact **I am a sports fanatic and I  like to play football and badminton.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
