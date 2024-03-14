@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritesh Patil</h1>
-<h3 align="center">A data enthusiast with experience in BI and Data Science</h3>
+<h3 align="center">A data scientist with experience in Business Intelligence</h3>
 
 - 👨‍💻 All of my projects are available at [https://riteshpat97.github.io/AskRitesh.github.io/index.html](https://riteshpat97.github.io/AskRitesh.github.io/index.html)
 
